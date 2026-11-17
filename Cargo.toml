@@ -1,0 +1,7 @@
+[package]
+name = "trees"
+version = "0.1.0"
+edition = "2021"
+description = "ECE 522 Project 2: self-balancing binary search trees (AVL now, red-black next)"
+
+[dependencies]
